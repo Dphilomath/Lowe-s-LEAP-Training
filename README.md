@@ -1,1 +1,1 @@
-# Lowe-s-LEAP-Training
+# Lowes-LEAP-Training
