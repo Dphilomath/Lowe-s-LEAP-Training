@@ -1,3 +1,6 @@
 [submodule "daniyal"]
 	path = daniyal
 	url = https://github.com/Dphilomath/Lowes-LEAP-Codes
+[submodule "biplov"]
+	path = biplov
+	url = https://github.com/pbplop29/LowesLeap
