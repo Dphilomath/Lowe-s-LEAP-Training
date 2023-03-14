@@ -25,3 +25,10 @@
 [submodule "snehashish"]
 	path = snehashish
 	url = https://github.com/SnehashishRout/Training_codes.git
+[submodule "jaspriya"]
+	path = jaspriya
+	url = https://github.com/jaspriyagujral/LowesLeap
+
+[submodule "utkarsh"]
+	path = utkarsh
+	url = https://github.com/17mishra/lowes-training
