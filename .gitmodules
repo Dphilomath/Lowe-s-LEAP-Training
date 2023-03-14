@@ -4,3 +4,9 @@
 [submodule "biplov"]
 	path = biplov
 	url = https://github.com/pbplop29/LowesLeap
+[submodule "antara"]
+	path = antara
+	url = https://github.com/ElixerofCoding144/Lowe-s-Training-Code
+[submodule "samiksha"]
+	path = samiksha
+	url = https://github.com/Sam-ik-sha/SamikshaYadav_Lowe-s-LEAP.git
