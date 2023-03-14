@@ -10,3 +10,18 @@
 [submodule "samiksha"]
 	path = samiksha
 	url = https://github.com/Sam-ik-sha/SamikshaYadav_Lowe-s-LEAP.git
+[submodule "chetna"]
+	path = chetna
+	url = https://github.com/chetnaahir/lowes.git
+[submodule "stuti"]
+	path = stuti
+	url = https://github.com/StutiSinghChauhan/Lowe-s-Training.git
+[submodule "rohit"]
+	path = rohit
+	url = https://github.com/rohitk2001/RohitKhandelwal_Lowes_LEAP
+[submodule "disha"]
+	path = disha
+	url = https://github.com/dishasaini01/Lowe-s-LEAP
+[submodule "snehashish"]
+	path = snehashish
+	url = https://github.com/SnehashishRout/Training_codes.git
