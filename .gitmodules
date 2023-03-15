@@ -32,9 +32,6 @@
 [submodule "utkarsh"]
 	path = utkarsh
 	url = https://github.com/17mishra/lowes-training
-[submodule "arindom"]
-	path = arindom
-	url = https://github.com/arindombora21/Lowes.git
 [submodule "gaurikaa"]
 	path = gaurikaa
 	url = https://github.com/Gaurikaa8527/Lowes-LEAP-Training
