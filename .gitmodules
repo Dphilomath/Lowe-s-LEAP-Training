@@ -47,3 +47,9 @@
 [submodule "shalini"]
 	path = shalini
 	url = https://github.com/shalinishygan/Lowe-s-bootcamp
+[submodule "sneha"]
+	path = sneha
+	url = https://github.com/snehareddy24/Lowes-training
+[submodule "shilpa"]
+	path = shilpa
+	url = https://github.com/Shilpa2507/lowes-leap
