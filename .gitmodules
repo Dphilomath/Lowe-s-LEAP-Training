@@ -50,3 +50,6 @@
 [submodule "shalini"]
 	path = shalini
 	url = https://github.com/shalinishygan/Lowe-s-bootcamp
+[submodule "gaurav"]
+	path = gaurav
+	url = https://github.com/gaurav-1406/Lowe-s-Training
