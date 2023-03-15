@@ -47,3 +47,6 @@
 [submodule "sudha"]
 	path = sudha
 	url = https://github.com/sudhachintake/Lowe-s-Training
+[submodule "shalini"]
+	path = shalini
+	url = https://github.com/shalinishygan/Lowe-s-bootcamp
